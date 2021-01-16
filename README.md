@@ -1,1 +1,1 @@
-# JumpBox
+# Box Class
